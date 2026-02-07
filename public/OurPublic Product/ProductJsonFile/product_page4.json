@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "currentPage": 2,
+    "totalPages": 5,
+    "totalItems": 50,
+    "itemsPerPage": 10
+  },
+  "products": [
+    {
+      "id": 11,
+      "name": "Smartphone Pro Max",
+      "price": 999.99,
+      "category": "Mobile",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Smart Watch Series 5",
+      "price": 249.50,
+      "category": "Wearables",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 13,
+      "name": "4K Action Camera",
+      "price": 199.99,
+      "category": "Photography",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bluetooth Earbuds",
+      "price": 129.00,
+      "category": "Audio",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Wireless Charger",
+      "price": 29.99,
+      "category": "Accessories",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Gaming Headset 7.1",
+      "price": 79.99,
+      "category": "Gaming",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Portable Power Bank",
+      "price": 45.00,
+      "category": "Accessories",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Smart Home Speaker",
+      "price": 89.50,
+      "category": "Smart Home",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Graphics Tablet",
+      "price": 65.00,
+      "category": "Computing",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 20,
+      "name": "USB-C Fast Cable",
+      "price": 15.99,
+      "category": "Cables",
+      "image": "/images/img.jpg"
+    }
+  ]
+}

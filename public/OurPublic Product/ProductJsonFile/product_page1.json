@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "currentPage": 1,
+    "totalPages": 5,
+    "totalItems": 50,
+    "itemsPerPage": 10
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 99.99,
+      "category": "Electronics",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 129.50,
+      "category": "Computing",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "price": 59.99,
+      "category": "Computing",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 4,
+      "name": "USB-C Hub",
+      "price": 45.00,
+      "category": "Accessories",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 5,
+      "name": "27-inch Monitor",
+      "price": 299.99,
+      "category": "Electronics",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Portable SSD 1TB",
+      "price": 110.00,
+      "category": "Storage",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ergonomic Desk Chair",
+      "price": 199.00,
+      "category": "Furniture",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Webcam 1080p",
+      "price": 79.99,
+      "category": "Electronics",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Laptop Stand",
+      "price": 35.00,
+      "category": "Accessories",
+      "image": "/images/img.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bluetooth Speaker",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "/images/img.jpg"
+    }
+  ]
+}

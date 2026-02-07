@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "category": "Electronics",
+    "image": "/images/img.jpg",
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 129.5,
+    "category": "Computing",
+    "image": "/images/img.jpg",
+    "quantity": 1
+  }
+]

@@ -46,7 +46,7 @@ export default function Header() {
           </Link>
         </div>
 
-        {/* 2. Search Bar */}
+        {/* 2. Search Bar */}   
         {/* <form onSubmit={handleSearch} className="flex w-full md:w-1/2 lg:w-1/3">
           <input
             type="text"
